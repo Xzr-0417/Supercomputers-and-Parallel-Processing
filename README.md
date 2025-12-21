@@ -158,7 +158,7 @@ BBN Butterfly (1980-е, до 256 процессоров)
 
 
 
-15. Общая структура ccNUMA компьютера на примере Hewlett-Packard Superdome.  
+## 15. Общая структура ccNUMA компьютера на примере Hewlett-Packard Superdome.  
 --------------------------------------------------  
 一、ccNUMA 体系结构的“骨架”——以 HP Superdome 为例  
 I. Каркас архитектуры ccNUMA на примере HP Superdome  
